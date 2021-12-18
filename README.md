@@ -1,7 +1,7 @@
 # ironfish-db
 
-Ironfish node db. Make if faster to sync for new nodes.
-Update every hour. Backup you old db files before copy.
+Ironfish node database snapshot. Make it faster to sync for new nodes.
+Updates every hour. Backup you old database files before copy.
 
 
 How to use:
